@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nac3nt
-- 👀 I’m interested in exploring
-- 🌱 I’m currently learning 3D
-- 💞️ I’m looking to collaborate on 3D, webgl
+- 👀 I’m interested in UI/UX and web
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking to collaborate on web ui/ux
 - 📫 Mail to iamnacent@gmail.com
 
 <!---
